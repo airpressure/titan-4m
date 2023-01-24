@@ -1,2 +1,2 @@
 # titan-4m
-CNC Titan Academy
+Titans of CNC Academy
